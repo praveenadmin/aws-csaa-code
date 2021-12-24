@@ -1,13 +1,9 @@
 # AWS Certified Solutions Architect Associate SAA-C02 Course Code
-*By Digital Cloud Training - Course Author Neal Davis*
+*By [Digital Cloud Training](https://digitalcloud.training/) - Course Author Neal Davis*
 
 ## How to Use the Course Code
 
 The code used throughout the course has been zipped up and is available for download from this repo. Please download the code to your computer and unzip the contents. When course updates are made the file may be updated and you will need to ensure you download the latest version.
-
-## Course Slides
-
-The slides from the course are also available for download. Please visit the [main course download page](https://digitalcloud.training/aws-csaa-hands-on-labs-downloads/) for this course to find links to the course slides and exam cram slide PDFs.
 
 ## Course Overview
 
